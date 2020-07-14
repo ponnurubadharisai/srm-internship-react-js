@@ -1,6 +1,6 @@
 .log{
-  width :25%;
-  padding-left: 5%
+  width :40%;
+  padding: 15%;
 }
 .c
 {
@@ -14,7 +14,7 @@
 }
 .icon
 {
-  width: 4%;
+  width: 15%;
   padding: 40px;
 
 }
@@ -36,7 +36,6 @@
 }
 .h{
     font-size: 40px;
-    background-color: lightgreen;
 
 }
 .m
@@ -51,7 +50,7 @@
 }
 
 .b{
-  width: 25%;
+  width: 30%;
   padding: 1%;
   border: 1px solid black;
   box-shadow: 0px 8px 8px -8px #000;
@@ -60,7 +59,7 @@
 }
 
 .child{
-  width:65%;
+  width:60%;
   padding: 1%;
   margin: 1%;
   border: 1px solid black;
@@ -96,5 +95,7 @@
         width:32%;
     }
     
+    display: block;
+    word-wrap: break-word;
 }
 
